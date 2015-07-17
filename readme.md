@@ -25,4 +25,4 @@ In your web page:
 
 ## License
 
-MIT © light-li
+MIT © [lxpgw](http://www.lxpgw.com)
