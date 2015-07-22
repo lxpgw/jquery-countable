@@ -102,7 +102,7 @@
       this.$element.html('--');
       throw new Error('from or to is not a number');
     }
-    return false;
+    return this.$promise;
   };
 
   Counter.prototype.easeOutExpo = function(t, b, c, d) {
