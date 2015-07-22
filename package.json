@@ -1,9 +1,11 @@
 {
-  "name": "jquery-countable",
+  "name": "countable",
   "version": "0.1.0",
-  "description": "jquery-countable",
+  "description": "jquery plugin countable",
   "keywords": [
-    "jquery-plugin"
+    "jquery",
+    "countable",
+    "plugin"
   ],
   "author": {
     "name": "light-li",
@@ -13,7 +15,9 @@
   "repository": "lxpgw/jquery-countable",
   "license": "MIT",
   "scripts": {
-    "test": "grunt"
+    "test": "grunt test",
+    "build": "grunt",
+    "dev": "grunt serve"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
